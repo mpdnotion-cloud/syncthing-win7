@@ -1,3 +1,8 @@
+> **Windows 7 / Windows Server 2008 R2 build** – This repository is an
+> unofficial fork of Syncthing with build scripts to produce binaries that run
+> on Windows 7 SP1 and Windows Server 2008 R2 SP1 (x64). See
+> [README-Win7.md](README-Win7.md). Not affiliated with the Syncthing project.
+
 [![Syncthing][14]][15]
 
 ---
